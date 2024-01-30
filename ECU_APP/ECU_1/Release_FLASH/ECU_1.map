@@ -1,0 +1,1991 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              ./SDK/platform/drivers/src/lptmr/lptmr_driver.o (__aeabi_uldivmod)
+e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                              e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                              e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                              ./Sources/CANTP.o (memcpy)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+                              ./Sources/UDS_ECU.o (srand)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+                              ./Sources/UDS_ECU.o (time)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o) (_gettimeofday_r)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o) (malloc)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_free_r)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_malloc_r)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o) (errno)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o) (_gettimeofday)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                              E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x00000000       0xa4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .data          0x00000000        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x00000000       0x1c e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array    0x00000000        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini_array    0x00000000        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .jcr           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .tm_clone_table
+                0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .comment       0x00000000       0xa1 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x34 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000       0x74 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.exidx     0x00000000        0x8 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .text          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .data          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss           0x00000000        0x0 ./Generated_Code/Cpu.o
+ .debug_info    0x00000000     0x1f43 ./Generated_Code/Cpu.o
+ .debug_abbrev  0x00000000      0x15d ./Generated_Code/Cpu.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/Cpu.o
+ .debug_line    0x00000000      0x3b6 ./Generated_Code/Cpu.o
+ .debug_str     0x00000000     0x3625 ./Generated_Code/Cpu.o
+ .comment       0x00000000       0xa1 ./Generated_Code/Cpu.o
+ .ARM.attributes
+                0x00000000       0x39 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 ./Generated_Code/Flash1.o
+ .data          0x00000000        0x0 ./Generated_Code/Flash1.o
+ .bss           0x00000000        0x0 ./Generated_Code/Flash1.o
+ .text          0x00000000        0x0 ./Generated_Code/canCom1.o
+ .data          0x00000000        0x0 ./Generated_Code/canCom1.o
+ .bss           0x00000000        0x0 ./Generated_Code/canCom1.o
+ .text          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .data          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .bss           0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .text          0x00000000        0x0 ./Generated_Code/dmaController1.o
+ .data          0x00000000        0x0 ./Generated_Code/dmaController1.o
+ .bss           0x00000000        0x0 ./Generated_Code/dmaController1.o
+ .bss.dmaController1Chn0_State
+                0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .bss.dmaController1_State
+                0x00000000       0x40 ./Generated_Code/dmaController1.o
+ .data.dmaController1Chn0_Config
+                0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .rodata.dmaController1_InitConfig0
+                0x00000000        0x2 ./Generated_Code/dmaController1.o
+ .rodata.edmaChnConfigArray
+                0x00000000        0x4 ./Generated_Code/dmaController1.o
+ .rodata.edmaChnStateArray
+                0x00000000        0x4 ./Generated_Code/dmaController1.o
+ .debug_info    0x00000000     0x1f91 ./Generated_Code/dmaController1.o
+ .debug_abbrev  0x00000000      0x16a ./Generated_Code/dmaController1.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/dmaController1.o
+ .debug_line    0x00000000      0x3ca ./Generated_Code/dmaController1.o
+ .debug_str     0x00000000     0x3630 ./Generated_Code/dmaController1.o
+ .comment       0x00000000       0xa1 ./Generated_Code/dmaController1.o
+ .ARM.attributes
+                0x00000000       0x39 ./Generated_Code/dmaController1.o
+ .text          0x00000000        0x0 ./Generated_Code/lpTmr1.o
+ .data          0x00000000        0x0 ./Generated_Code/lpTmr1.o
+ .bss           0x00000000        0x0 ./Generated_Code/lpTmr1.o
+ .text          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .data          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .bss           0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x80 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .text.SystemSoftwareReset
+                0x00000000       0x18 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_TransitionToTmpSysClk
+                0x00000000       0xee ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetCurrentSysClkConfig
+                0x00000000       0x5c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConvertAsyncDividerValue
+                0x00000000       0x6a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetModuleClock
+                0x00000000      0x168 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetSystemClock
+                0x00000000      0x104 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_GetSystemClockSource
+                0x00000000       0x5c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetClockSource
+                0x00000000      0x2b0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetCurrentConfiguration
+                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetErrorCallback
+                0x00000000       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetConfiguration
+                0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.sysClkDivMappings.7666
+                0x00000000       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.sysClkDivMappings.7744
+                0x00000000       0x11 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ClearStructure
+                0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_InstallCallback
+                0x00000000       0x20 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ReleaseChannel
+                0x00000000       0x34 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_Deinit
+                0x00000000       0x50 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigSingleBlockTransfer
+                0x00000000      0x148 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigMultiBlockTransfer
+                0x00000000       0x64 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_StartChannel
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetChannelRequestAndTrigger
+                0x00000000       0x44 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ChannelInit
+                0x00000000       0xa0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_Init
+                0x00000000       0xb0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ClearTCD
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcAddr
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcOffset
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcReadChunkSize
+                0x00000000       0x26 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcLastAddrAdjustment
+                0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestLastAddrAdjustment
+                0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestAddr
+                0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestOffset
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestWriteChunkSize
+                0x00000000       0x24 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetMinorLoopBlockSize
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetMajorLoopIterationCount
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_GetRemainingMajorIterationsCount
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetScatterGatherLink
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_DisableRequestsOnTransferComplete
+                0x00000000       0x38 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigureInterrupt
+                0x00000000       0x80 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_CancelTransfer
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_TriggerSwRequest
+                0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_PushConfigToSTCD
+                0x00000000       0x8e ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_PushConfigToReg
+                0x00000000      0x1d8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigLoopTransfer
+                0x00000000       0x28 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigScatterGatherTransfer
+                0x00000000      0x1a0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_GetChannelStatus
+                0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .rodata.s_edmaIrqId
+                0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_CancelTransfer
+                0x00000000       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_CancelTransferWithError
+                0x00000000       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetErrorIntCmd
+                0x00000000        0xa ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDClearReg
+                0x00000000       0x4a ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_Init
+                0x00000000       0x22 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetAttribute
+                0x00000000       0x30 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetNbytes
+                0x00000000       0x5c ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetMinorLoopOffset
+                0x00000000       0x44 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetScatterGatherLink
+                0x00000000        0xc ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetChannelMinorLink
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetMajorCount
+                0x00000000       0x5e ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDGetCurrentMajorCount
+                0x00000000       0x2c ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.DMAMUX_Init
+                0x00000000        0xe ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetPFlashProtection
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SetPFlashProtection
+                0x00000000       0x50 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetSecurityState
+                0x00000000       0x28 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SecurityBypass
+                0x00000000       0x3c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseAllBlock
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_VerifyAllBlock
+                0x00000000       0x28 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseSuspend
+                0x00000000       0x34 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseResume
+                0x00000000       0x38 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ReadOnce
+                0x00000000       0x4c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ProgramOnce
+                0x00000000       0x3c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_CheckSum
+                0x00000000       0x6a ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ProgramSection
+                0x00000000       0x78 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseBlock
+                0x00000000       0x64 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_VerifyBlock
+                0x00000000       0x64 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetEERAMProtection
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SetEERAMProtection
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SetFlexRamFunction
+                0x00000000       0x68 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EEEWrite
+                0x00000000       0xdc ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_DEFlashPartition
+                0x00000000       0x3c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetDFlashProtection
+                0x00000000       0x18 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SetDFlashProtection
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseAllBlockUnsecure
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EnableCmdCompleteInterupt
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_DisableCmdCompleteInterupt
+                0x00000000       0x18 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EnableReadColisionInterupt
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_DisableReadColisionInterupt
+                0x00000000       0x18 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EnableDoubleBitFaultInterupt
+                0x00000000       0x20 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_DisableDoubleBitFaultInterupt
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetDefaultConfig
+                0x00000000       0x1e ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_StartRxMessageFifoData
+                0x00000000      0x114 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_CompleteRxFifoDataDMA
+                0x00000000       0x30 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetBitrate
+                0x00000000       0xa0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetBitrateCbt
+                0x00000000       0x68 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetBitrate
+                0x00000000       0x64 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetBitrateFD
+                0x00000000       0x40 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetRxMaskType
+                0x00000000       0x30 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetRxFifoGlobalMask
+                0x00000000       0x84 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetRxMbGlobalMask
+                0x00000000       0x38 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetRxMb14Mask
+                0x00000000       0x38 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetRxMb15Mask
+                0x00000000       0x38 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetRxIndividualMask
+                0x00000000      0x118 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_ConfigRemoteResponseMb
+                0x00000000       0x38 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SendBlocking
+                0x00000000       0xbc ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_ConfigRxFifo
+                0x00000000       0x28 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_ReceiveBlocking
+                0x00000000       0x80 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_RxFifoBlocking
+                0x00000000       0x80 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_RxFifo
+                0x00000000        0xa ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_Deinit
+                0x00000000       0xe0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_SetTDCOffset
+                0x00000000       0x38 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetTDCValue
+                0x00000000       0x14 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetTDCFail
+                0x00000000       0x14 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_ClearTDCFail
+                0x00000000       0x18 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetTransferStatus
+                0x00000000       0x24 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_ConfigPN
+                0x00000000       0x40 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetWMB
+                0x00000000       0x3c ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_GetDefaultConfig
+                0x00000000      0x160 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .text.FLEXCAN_GetRxFifoMask
+                0x00000000       0x60 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .text.FLEXCAN_SetRxFifoFilter
+                0x00000000      0x1d8 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .text.FLEXCAN_ConfigPN
+                0x00000000      0x1a8 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .text.CAN1_ORed_16_31_MB_IRQHandler
+                0x00000000        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .text.CAN2_ORed_16_31_MB_IRQHandler
+                0x00000000        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_DisableIRQ
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_SetPriority
+                0x00000000       0x58 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_GetPriority
+                0x00000000       0x44 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_ClearPending
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_SetPending
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_GetPending
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_GetActive
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_InitConfigStruct
+                0x00000000       0x1a ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_GetConfig
+                0x00000000       0x5c ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_Deinit
+                0x00000000       0x18 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_SetCompareValueByCount
+                0x00000000       0x38 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_GetCompareValueByCount
+                0x00000000        0xc ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_SetCompareValueByUs
+                0x00000000       0xdc ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_GetCompareValueByUs
+                0x00000000       0xa8 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_GetCompareFlag
+                0x00000000       0x10 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_IsRunning
+                0x00000000       0x10 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_SetInterrupt
+                0x00000000       0x1c ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_GetCounterValueByCount
+                0x00000000       0x10 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_StopCounter
+                0x00000000       0x10 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text.LPTMR_DRV_SetPinConfiguration
+                0x00000000       0x28 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPullSel
+                0x00000000       0x3a ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetMuxModeSel
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPinIntSel
+                0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinIntSel
+                0x00000000        0xa ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPinIntFlagCmd
+                0x00000000        0xe ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_EnableDigitalFilter
+                0x00000000       0x12 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_DisableDigitalFilter
+                0x00000000       0x14 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ConfigDigitalFilter
+                0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPortIntFlag
+                0x00000000        0x6 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPortIntFlagCmd
+                0x00000000        0xa ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinsDirection
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPinDirection
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPortInputDisable
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPortInputDisable
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetGlobalPinControl
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetGlobalIntControl
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_WritePin
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_WritePins
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinsOutput
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_TogglePins
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ReadPins
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_SetMuxModeSel
+                0x00000000       0x50 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_SetGlobalPinControl
+                0x00000000       0x2c ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_SetGlobalIntControl
+                0x00000000       0x24 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text          0x00000000        0x0 ./SDK/rtos/osif/osif_baremetal.o
+ .data          0x00000000        0x0 ./SDK/rtos/osif/osif_baremetal.o
+ .bss           0x00000000        0x0 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_TimeDelay
+                0x00000000       0x50 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_GetMilliseconds
+                0x00000000        0xc ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexLock
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexUnlock
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexCreate
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexDestroy
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_SemaWait
+                0x00000000       0x74 ./SDK/rtos/osif/osif_baremetal.o
+ .text          0x00000000        0x0 ./Sources/CANTP.o
+ .data          0x00000000        0x0 ./Sources/CANTP.o
+ .bss           0x00000000        0x0 ./Sources/CANTP.o
+ .text.send_single_frame
+                0x00000000       0x4e ./Sources/CANTP.o
+ .text.send_first_frame
+                0x00000000       0x60 ./Sources/CANTP.o
+ .text.send_consecutive_frame
+                0x00000000       0x78 ./Sources/CANTP.o
+ .text.sendData
+                0x00000000       0x88 ./Sources/CANTP.o
+ .text          0x00000000        0x0 ./Sources/CAN_standard.o
+ .data          0x00000000        0x0 ./Sources/CAN_standard.o
+ .bss           0x00000000        0x0 ./Sources/CAN_standard.o
+ .bss.ledRequested
+                0x00000000        0x1 ./Sources/CAN_standard.o
+ .text          0x00000000        0x0 ./Sources/DTC.o
+ .data          0x00000000        0x0 ./Sources/DTC.o
+ .bss           0x00000000        0x0 ./Sources/DTC.o
+ .text.takeSnapshot
+                0x00000000       0x1e ./Sources/DTC.o
+ .text.checkSensor
+                0x00000000        0xe ./Sources/DTC.o
+ .text.updateSensorPretest
+                0x00000000       0x18 ./Sources/DTC.o
+ .text.updateSensorResult
+                0x00000000       0x20 ./Sources/DTC.o
+ .text.scanFaultDetection
+                0x00000000       0x3c ./Sources/DTC.o
+ .text.getBit   0x00000000        0x8 ./Sources/DTC.o
+ .text.setBit   0x00000000       0x1c ./Sources/DTC.o
+ .text.copyDataToRecent
+                0x00000000       0x30 ./Sources/DTC.o
+ .text.compareStatusBit2
+                0x00000000       0x12 ./Sources/DTC.o
+ .text.DTCStatus
+                0x00000000      0x198 ./Sources/DTC.o
+ .bss.DTCData_Recent.5400
+                0x00000000       0x38 ./Sources/DTC.o
+ .bss.DTCHistory
+                0x00000000       0x38 ./Sources/DTC.o
+ .bss.agingStatus
+                0x00000000        0x4 ./Sources/DTC.o
+ .bss.confirmStage
+                0x00000000        0x1 ./Sources/DTC.o
+ .bss.currentOperationCycle
+                0x00000000        0x1 ./Sources/DTC.o
+ .bss.lastOperationCycle
+                0x00000000        0x1 ./Sources/DTC.o
+ .bss.sample_time
+                0x00000000        0x4 ./Sources/DTC.o
+ .data.DTCCurrent
+                0x00000000       0x38 ./Sources/DTC.o
+ .debug_info    0x00000000      0x851 ./Sources/DTC.o
+ .debug_abbrev  0x00000000      0x220 ./Sources/DTC.o
+ .debug_loc     0x00000000      0x409 ./Sources/DTC.o
+ .debug_aranges
+                0x00000000       0x68 ./Sources/DTC.o
+ .debug_ranges  0x00000000       0x70 ./Sources/DTC.o
+ .debug_line    0x00000000      0x256 ./Sources/DTC.o
+ .debug_str     0x00000000      0x4f9 ./Sources/DTC.o
+ .comment       0x00000000       0xa1 ./Sources/DTC.o
+ .debug_frame   0x00000000       0xf4 ./Sources/DTC.o
+ .ARM.attributes
+                0x00000000       0x39 ./Sources/DTC.o
+ .text          0x00000000        0x0 ./Sources/UDS_ECU.o
+ .data          0x00000000        0x0 ./Sources/UDS_ECU.o
+ .bss           0x00000000        0x0 ./Sources/UDS_ECU.o
+ .text.maHoa    0x00000000        0xa ./Sources/UDS_ECU.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .bss.exit_code
+                0x00000000        0x4 ./Sources/main.o
+ .data          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x9c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x38 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x2 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .jcr           0x00000000        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .tm_clone_table
+                0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .comment       0x00000000       0xa1 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x00000000        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .init          0x00000000        0x8 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .fini          0x00000000        0x8 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .ARM.attributes
+                0x00000000       0x22 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000400         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0007fbf0         xr
+m_data           0x1fff8000         0x00008000         rw
+m_data_2         0x20000000         0x00007000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./Generated_Code/Cpu.o
+LOAD ./Generated_Code/Flash1.o
+LOAD ./Generated_Code/canCom1.o
+LOAD ./Generated_Code/clockMan1.o
+LOAD ./Generated_Code/dmaController1.o
+LOAD ./Generated_Code/lpTmr1.o
+LOAD ./Generated_Code/pin_mux.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K144.o
+LOAD ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+LOAD ./SDK/platform/devices/startup.o
+LOAD ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+LOAD ./SDK/platform/drivers/src/edma/edma_driver.o
+LOAD ./SDK/platform/drivers/src/edma/edma_hw_access.o
+LOAD ./SDK/platform/drivers/src/edma/edma_irq.o
+LOAD ./SDK/platform/drivers/src/flash/flash_driver.o
+LOAD ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+LOAD ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+LOAD ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+LOAD ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+LOAD ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+LOAD ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+LOAD ./SDK/platform/drivers/src/pins/pins_driver.o
+LOAD ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+LOAD ./SDK/rtos/osif/osif_baremetal.o
+LOAD ./Sources/CANTP.o
+LOAD ./Sources/CAN_standard.o
+LOAD ./Sources/DTC.o
+LOAD ./Sources/UDS_ECU.o
+LOAD ./Sources/main.o
+START GROUP
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+LOAD E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+LOAD E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
+END GROUP
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x00000400                M_VECTOR_RAM_SIZE = DEFINED (__flash_vector_table__)?0x0:0x400
+
+.interrupts     0x00000000      0x400
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                __interrupts_start__ = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000000                __isr_vector
+                0x00000400                __interrupts_end__ = .
+                0x00000400                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x4488
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x4c ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000410                Reset_Handler
+                0x00000458                DebugMon_Handler
+                0x00000458                Reserved88_IRQHandler
+                0x00000458                HardFault_Handler
+                0x00000458                Reserved86_IRQHandler
+                0x00000458                Reserved103_IRQHandler
+                0x00000458                FTM2_Ovf_Reload_IRQHandler
+                0x00000458                Reserved50_IRQHandler
+                0x00000458                FTFC_Fault_IRQHandler
+                0x00000458                FTM0_Ch6_Ch7_IRQHandler
+                0x00000458                Reserved114_IRQHandler
+                0x00000458                PendSV_Handler
+                0x00000458                NMI_Handler
+                0x00000458                Reserved89_IRQHandler
+                0x00000458                ERM_double_fault_IRQHandler
+                0x00000458                Reserved59_IRQHandler
+                0x00000458                LPIT0_Ch0_IRQHandler
+                0x00000458                Reserved99_IRQHandler
+                0x00000458                FTM3_Ch6_Ch7_IRQHandler
+                0x00000458                LPIT0_Ch3_IRQHandler
+                0x00000458                Reserved92_IRQHandler
+                0x00000458                FTM0_Ch4_Ch5_IRQHandler
+                0x00000458                FTM3_Ch0_Ch1_IRQHandler
+                0x00000458                SWI_IRQHandler
+                0x00000458                ADC0_IRQHandler
+                0x00000458                FTM2_Ch4_Ch5_IRQHandler
+                0x00000458                UsageFault_Handler
+                0x00000458                FTM0_Ovf_Reload_IRQHandler
+                0x00000458                DefaultISR
+                0x00000458                Reserved58_IRQHandler
+                0x00000458                FTM1_Ch2_Ch3_IRQHandler
+                0x00000458                Reserved82_IRQHandler
+                0x00000458                LPI2C0_Slave_IRQHandler
+                0x00000458                Reserved71_IRQHandler
+                0x00000458                PORTD_IRQHandler
+                0x00000458                Reserved69_IRQHandler
+                0x00000458                PORTB_IRQHandler
+                0x00000458                Reserved70_IRQHandler
+                0x00000458                ADC1_IRQHandler
+                0x00000458                FTM2_Ch2_Ch3_IRQHandler
+                0x00000458                Reserved53_IRQHandler
+                0x00000458                RTC_IRQHandler
+                0x00000458                PDB0_IRQHandler
+                0x00000458                Reserved54_IRQHandler
+                0x00000458                FTM2_Ch6_Ch7_IRQHandler
+                0x00000458                FTM3_Ch2_Ch3_IRQHandler
+                0x00000458                FTM2_Ch0_Ch1_IRQHandler
+                0x00000458                LPSPI1_IRQHandler
+                0x00000458                LPUART1_RxTx_IRQHandler
+                0x00000458                RTC_Seconds_IRQHandler
+                0x00000458                Reserved72_IRQHandler
+                0x00000458                Reserved110_IRQHandler
+                0x00000458                Reserved107_IRQHandler
+                0x00000458                Read_Collision_IRQHandler
+                0x00000458                FTFC_IRQHandler
+                0x00000458                FTM1_Ch6_Ch7_IRQHandler
+                0x00000458                Reserved105_IRQHandler
+                0x00000458                LPIT0_Ch1_IRQHandler
+                0x00000458                FTM1_Ch4_Ch5_IRQHandler
+                0x00000458                FTM3_Ovf_Reload_IRQHandler
+                0x00000458                LPUART2_RxTx_IRQHandler
+                0x00000458                LPSPI0_IRQHandler
+                0x00000458                WDOG_EWM_IRQHandler
+                0x00000458                MemManage_Handler
+                0x00000458                Reserved90_IRQHandler
+                0x00000458                Reserved83_IRQHandler
+                0x00000458                FTM0_Fault_IRQHandler
+                0x00000458                Reserved48_IRQHandler
+                0x00000458                SVC_Handler
+                0x00000458                ERM_single_fault_IRQHandler
+                0x00000458                FTM2_Fault_IRQHandler
+                0x00000458                FTM0_Ch2_Ch3_IRQHandler
+                0x00000458                FTM0_Ch0_Ch1_IRQHandler
+                0x00000458                FTM3_Fault_IRQHandler
+                0x00000458                RCM_IRQHandler
+                0x00000458                Reserved100_IRQHandler
+                0x00000458                Reserved91_IRQHandler
+                0x00000458                SCG_IRQHandler
+                0x00000458                PDB1_IRQHandler
+                0x00000458                Reserved81_IRQHandler
+                0x00000458                Reserved46_IRQHandler
+                0x00000458                Reserved45_IRQHandler
+                0x00000458                Reserved112_IRQHandler
+                0x00000458                LPI2C0_Master_IRQHandler
+                0x00000458                FTM1_Fault_IRQHandler
+                0x00000458                Reserved106_IRQHandler
+                0x00000458                LVD_LVW_IRQHandler
+                0x00000458                LPIT0_Ch2_IRQHandler
+                0x00000458                PORTA_IRQHandler
+                0x00000458                MCM_IRQHandler
+                0x00000458                LPSPI2_IRQHandler
+                0x00000458                FTM3_Ch4_Ch5_IRQHandler
+                0x00000458                PORTE_IRQHandler
+                0x00000458                LPUART0_RxTx_IRQHandler
+                0x00000458                LPTMR0_IRQHandler
+                0x00000458                BusFault_Handler
+                0x00000458                Reserved87_IRQHandler
+                0x00000458                FTM1_Ovf_Reload_IRQHandler
+                0x00000458                Reserved93_IRQHandler
+                0x00000458                CMP0_IRQHandler
+                0x00000458                Reserved52_IRQHandler
+                0x00000458                PORTC_IRQHandler
+                0x00000458                FTM1_Ch0_Ch1_IRQHandler
+                0x00000458                FLEXIO_IRQHandler
+                0x00000458                Reserved113_IRQHandler
+ .text          0x0000045c       0x30 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x0000045c                __aeabi_uldivmod
+ .text          0x0000048c      0x2e4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                0x0000048c                __udivmoddi4
+ .text          0x00000770        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                0x00000770                __aeabi_idiv0
+                0x00000770                __aeabi_ldiv0
+ *(.text*)
+ .text.SystemInit
+                0x00000774       0x3c ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+                0x00000774                SystemInit
+ .text.init_data_bss
+                0x000007b0       0xd8 ./SDK/platform/devices/startup.o
+                0x000007b0                init_data_bss
+ .text.CLOCK_SYS_GetCurrentRunMode
+                0x00000888       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSysOscFreq
+                0x000008ac       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSOSC
+                0x000008c8      0x12c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSircFreq
+                0x000009f4       0x2c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSIRC
+                0x00000a20       0xc4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetFircFreq
+                0x00000ae4       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureFIRC
+                0x00000b04       0xb4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSysPllFreq
+                0x00000bb8       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSPLL
+                0x00000bfc      0x104 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetSystemClockConfig
+                0x00000d00      0x1e4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_TransitionSystemClock
+                0x00000ee4       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSystemClockFreq
+                0x00000f20       0x78 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetScgClkOutFreq
+                0x00000f98       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSysAsyncFreq
+                0x00000fdc       0xd4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimRtcClkFreq
+                0x000010b0       0x50 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetPeripheralClock
+                0x00001100       0x78 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetLpoFreq
+                0x00001178       0x4c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimClkOutFreq
+                0x000011c4       0x98 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_Init
+                0x0000125c      0x598 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x0000125c                CLOCK_DRV_Init
+ .text.CLOCK_DRV_GetFreq
+                0x000017f4      0x3b0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x000017f4                CLOCK_DRV_GetFreq
+ .text.CLOCK_SYS_Init
+                0x00001ba4       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00001ba4                CLOCK_SYS_Init
+ .text.CLOCK_SYS_UpdateConfiguration
+                0x00001bc0       0xe8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00001bc0                CLOCK_SYS_UpdateConfiguration
+ .text.CLOCK_SYS_GetFreq
+                0x00001ca8        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00001ca8                CLOCK_SYS_GetFreq
+ .text.EDMA_DRV_IRQHandler
+                0x00001cb0       0x2c ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x00001cb0                EDMA_DRV_IRQHandler
+ .text.EDMA_DRV_ErrorIRQHandler
+                0x00001cdc       0x3c ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x00001cdc                EDMA_DRV_ErrorIRQHandler
+ .text.EDMA_DRV_StopChannel
+                0x00001d18       0x18 ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x00001d18                EDMA_DRV_StopChannel
+ .text.EDMA_DRV_GetDmaRegBaseAddr
+                0x00001d30        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x00001d30                EDMA_DRV_GetDmaRegBaseAddr
+ .text.EDMA_SetDmaRequestCmd
+                0x00001d38        0xa ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x00001d38                EDMA_SetDmaRequestCmd
+ .text.DMA0_IRQHandler
+                0x00001d42        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d42                DMA0_IRQHandler
+ .text.DMA1_IRQHandler
+                0x00001d4c        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d4c                DMA1_IRQHandler
+ .text.DMA2_IRQHandler
+                0x00001d56        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d56                DMA2_IRQHandler
+ .text.DMA3_IRQHandler
+                0x00001d60        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d60                DMA3_IRQHandler
+ .text.DMA4_IRQHandler
+                0x00001d6a        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d6a                DMA4_IRQHandler
+ .text.DMA5_IRQHandler
+                0x00001d74        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d74                DMA5_IRQHandler
+ .text.DMA6_IRQHandler
+                0x00001d7e        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d7e                DMA6_IRQHandler
+ .text.DMA7_IRQHandler
+                0x00001d88        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d88                DMA7_IRQHandler
+ .text.DMA8_IRQHandler
+                0x00001d92        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d92                DMA8_IRQHandler
+ .text.DMA9_IRQHandler
+                0x00001d9c        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001d9c                DMA9_IRQHandler
+ .text.DMA10_IRQHandler
+                0x00001da6        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001da6                DMA10_IRQHandler
+ .text.DMA11_IRQHandler
+                0x00001db0        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001db0                DMA11_IRQHandler
+ .text.DMA12_IRQHandler
+                0x00001dba        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001dba                DMA12_IRQHandler
+ .text.DMA13_IRQHandler
+                0x00001dc4        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001dc4                DMA13_IRQHandler
+ .text.DMA14_IRQHandler
+                0x00001dce        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001dce                DMA14_IRQHandler
+ .text.DMA15_IRQHandler
+                0x00001dd8        0xa ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001dd8                DMA15_IRQHandler
+ .text.DMA_Error_IRQHandler
+                0x00001de2       0x28 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x00001de2                DMA_Error_IRQHandler
+ *fill*         0x00001e0a        0x2 
+ .text.FLASH_DRV_Init
+                0x00001e0c       0xcc ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00001e0c                FLASH_DRV_Init
+ .text.FLASH_DRV_EraseSector
+                0x00001ed8       0x98 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00001ed8                FLASH_DRV_EraseSector
+ .text.FLASH_DRV_VerifySection
+                0x00001f70       0x6c ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00001f70                FLASH_DRV_VerifySection
+ .text.FLASH_DRV_Program
+                0x00001fdc       0xb8 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00001fdc                FLASH_DRV_Program
+ .text.FLASH_DRV_ProgramCheck
+                0x00002094       0xec ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00002094                FLASH_DRV_ProgramCheck
+ .text.FLEXCAN_StartSendData
+                0x00002180       0xa4 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_StartRxMessageBufferData
+                0x00002224       0x80 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_CompleteRxMessageFifoData
+                0x000022a4       0xb0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_CompleteTransfer
+                0x00002354       0x38 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .text.FLEXCAN_DRV_Init
+                0x0000238c      0x2c4 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x0000238c                FLEXCAN_DRV_Init
+ .text.FLEXCAN_DRV_ConfigTxMb
+                0x00002650       0x40 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002650                FLEXCAN_DRV_ConfigTxMb
+ .text.FLEXCAN_DRV_Send
+                0x00002690       0x34 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002690                FLEXCAN_DRV_Send
+ .text.FLEXCAN_DRV_ConfigRxMb
+                0x000026c4       0x68 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x000026c4                FLEXCAN_DRV_ConfigRxMb
+ .text.FLEXCAN_DRV_Receive
+                0x0000272c        0xa ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x0000272c                FLEXCAN_DRV_Receive
+ *fill*         0x00002736        0x2 
+ .text.FLEXCAN_Error_IRQHandler
+                0x00002738       0x28 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002738                FLEXCAN_Error_IRQHandler
+ .text.FLEXCAN_WakeUpHandler
+                0x00002760       0x6c ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002760                FLEXCAN_WakeUpHandler
+ .text.FLEXCAN_IRQHandler
+                0x000027cc      0x1b8 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x000027cc                FLEXCAN_IRQHandler
+ .text.FLEXCAN_DRV_GetErrorStatus
+                0x00002984       0x10 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002984                FLEXCAN_DRV_GetErrorStatus
+ .text.FLEXCAN_DRV_AbortTransfer
+                0x00002994      0x154 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002994                FLEXCAN_DRV_AbortTransfer
+ .text.FLEXCAN_DRV_InstallEventCallback
+                0x00002ae8       0x14 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002ae8                FLEXCAN_DRV_InstallEventCallback
+ .text.FLEXCAN_DRV_InstallErrorCallback
+                0x00002afc       0x94 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                0x00002afc                FLEXCAN_DRV_InstallErrorCallback
+ .text.FLEXCAN_ComputePayloadSize
+                0x00002b90       0x36 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ *fill*         0x00002bc6        0x2 
+ .text.FLEXCAN_GetMaxMbNum
+                0x00002bc8       0x2c ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002bc8                FLEXCAN_GetMaxMbNum
+ .text.FLEXCAN_Enable
+                0x00002bf4       0x2a ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002bf4                FLEXCAN_Enable
+ .text.FLEXCAN_Disable
+                0x00002c1e       0x18 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002c1e                FLEXCAN_Disable
+ *fill*         0x00002c36        0x2 
+ .text.FLEXCAN_Init
+                0x00002c38       0x68 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002c38                FLEXCAN_Init
+ .text.FLEXCAN_EnableRxFifo
+                0x00002ca0       0x54 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002ca0                FLEXCAN_EnableRxFifo
+ .text.FLEXCAN_SetMsgBuffIntCmd
+                0x00002cf4       0x3c ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002cf4                FLEXCAN_SetMsgBuffIntCmd
+ .text.FLEXCAN_SetErrIntCmd
+                0x00002d30       0x5a ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002d30                FLEXCAN_SetErrIntCmd
+ .text.FLEXCAN_ExitFreezeMode
+                0x00002d8a       0x1a ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002d8a                FLEXCAN_ExitFreezeMode
+ .text.FLEXCAN_EnterFreezeMode
+                0x00002da4       0x40 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002da4                FLEXCAN_EnterFreezeMode
+ .text.FLEXCAN_ClearErrIntStatusFlag
+                0x00002de4       0x14 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002de4                FLEXCAN_ClearErrIntStatusFlag
+ .text.FLEXCAN_ReadRxFifo
+                0x00002df8       0x56 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002df8                FLEXCAN_ReadRxFifo
+ .text.FLEXCAN_SetOperationMode
+                0x00002e4e       0x5e ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002e4e                FLEXCAN_SetOperationMode
+ .text.FLEXCAN_SetPayloadSize
+                0x00002eac       0x1a ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002eac                FLEXCAN_SetPayloadSize
+ .text.FLEXCAN_GetPayloadSize
+                0x00002ec6       0x20 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002ec6                FLEXCAN_GetPayloadSize
+ .text.FLEXCAN_GetMsgBuffRegion
+                0x00002ee6       0x30 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002ee6                FLEXCAN_GetMsgBuffRegion
+ *fill*         0x00002f16        0x2 
+ .text.FLEXCAN_SetTxMsgBuff
+                0x00002f18      0x180 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00002f18                FLEXCAN_SetTxMsgBuff
+ .text.FLEXCAN_AbortTxMsgBuff
+                0x00003098       0x14 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00003098                FLEXCAN_AbortTxMsgBuff
+ .text.FLEXCAN_ResetRxMsgBuff
+                0x000030ac       0x16 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x000030ac                FLEXCAN_ResetRxMsgBuff
+ *fill*         0x000030c2        0x2 
+ .text.FLEXCAN_SetRxMsgBuff
+                0x000030c4       0xc8 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x000030c4                FLEXCAN_SetRxMsgBuff
+ .text.FLEXCAN_GetMsgBuff
+                0x0000318c       0x96 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x0000318c                FLEXCAN_GetMsgBuff
+ .text.FLEXCAN_LockRxMsgBuff
+                0x00003222        0xa ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x00003222                FLEXCAN_LockRxMsgBuff
+ .text.FLEXCAN_SetMaxMsgBuffNum
+                0x0000322c       0x9c ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                0x0000322c                FLEXCAN_SetMaxMsgBuffNum
+ .text.CAN0_ORed_IRQHandler
+                0x000032c8        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x000032c8                CAN0_ORed_IRQHandler
+ .text.CAN0_Error_IRQHandler
+                0x000032d2        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x000032d2                CAN0_Error_IRQHandler
+ .text.CAN0_Wake_Up_IRQHandler
+                0x000032dc        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x000032dc                CAN0_Wake_Up_IRQHandler
+ .text.CAN0_ORed_0_15_MB_IRQHandler
+                0x000032e6        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x000032e6                CAN0_ORed_0_15_MB_IRQHandler
+ .text.CAN0_ORed_16_31_MB_IRQHandler
+                0x000032f0        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x000032f0                CAN0_ORed_16_31_MB_IRQHandler
+ .text.CAN1_ORed_IRQHandler
+                0x000032fa        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x000032fa                CAN1_ORed_IRQHandler
+ .text.CAN1_Error_IRQHandler
+                0x00003304        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x00003304                CAN1_Error_IRQHandler
+ .text.CAN1_ORed_0_15_MB_IRQHandler
+                0x0000330e        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x0000330e                CAN1_ORed_0_15_MB_IRQHandler
+ .text.CAN2_ORed_IRQHandler
+                0x00003318        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x00003318                CAN2_ORed_IRQHandler
+ .text.CAN2_Error_IRQHandler
+                0x00003322        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x00003322                CAN2_Error_IRQHandler
+ .text.CAN2_ORed_0_15_MB_IRQHandler
+                0x0000332c        0xa ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                0x0000332c                CAN2_ORed_0_15_MB_IRQHandler
+ *fill*         0x00003336        0x2 
+ .text.INT_SYS_InstallHandler
+                0x00003338       0x40 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00003338                INT_SYS_InstallHandler
+ .text.INT_SYS_EnableIRQ
+                0x00003378       0x18 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00003378                INT_SYS_EnableIRQ
+ .text.INT_SYS_EnableIRQGlobal
+                0x00003390       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00003390                INT_SYS_EnableIRQGlobal
+ .text.INT_SYS_DisableIRQGlobal
+                0x000033ac       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x000033ac                INT_SYS_DisableIRQGlobal
+ .text.lptmr_GetClkFreq
+                0x000033bc       0x32 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ *fill*         0x000033ee        0x2 
+ .text.LPTMR_DRV_SetConfig
+                0x000033f0      0x1d0 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+                0x000033f0                LPTMR_DRV_SetConfig
+ .text.LPTMR_DRV_Init
+                0x000035c0       0x20 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+                0x000035c0                LPTMR_DRV_Init
+ .text.LPTMR_DRV_ClearCompareFlag
+                0x000035e0       0x14 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+                0x000035e0                LPTMR_DRV_ClearCompareFlag
+ .text.LPTMR_DRV_StartCounter
+                0x000035f4       0x14 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+                0x000035f4                LPTMR_DRV_StartCounter
+ .text.LPTMR_Init
+                0x00003608       0x12 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+                0x00003608                LPTMR_Init
+ .text.PINS_DRV_Init
+                0x0000361a       0x20 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x0000361a                PINS_DRV_Init
+ .text.PINS_DRV_SetPinsDirection
+                0x0000363a        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x0000363a                PINS_DRV_SetPinsDirection
+ .text.PINS_DRV_SetPins
+                0x0000363e        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x0000363e                PINS_DRV_SetPins
+ .text.PINS_DRV_ClearPins
+                0x00003642        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00003642                PINS_DRV_ClearPins
+ *fill*         0x00003646        0x2 
+ .text.PINS_GetAdcInterleaveVal
+                0x00003648       0x70 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_Init
+                0x000036b8      0x114 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x000036b8                PINS_Init
+ .text.SysTick_Handler
+                0x000037cc       0x10 ./SDK/rtos/osif/osif_baremetal.o
+                0x000037cc                SysTick_Handler
+ .text.OSIF_SemaPost
+                0x000037dc       0x26 ./SDK/rtos/osif/osif_baremetal.o
+                0x000037dc                OSIF_SemaPost
+ .text.OSIF_SemaCreate
+                0x00003802       0x14 ./SDK/rtos/osif/osif_baremetal.o
+                0x00003802                OSIF_SemaCreate
+ .text.OSIF_SemaDestroy
+                0x00003816        0x4 ./SDK/rtos/osif/osif_baremetal.o
+                0x00003816                OSIF_SemaDestroy
+ .text.wait     0x0000381a       0x38 ./Sources/CANTP.o
+                0x0000381a                wait
+ .text.send_flow_control
+                0x00003852       0x5a ./Sources/CANTP.o
+                0x00003852                send_flow_control
+ .text.receive_single_frame
+                0x000038ac       0x3e ./Sources/CANTP.o
+                0x000038ac                receive_single_frame
+ *fill*         0x000038ea        0x2 
+ .text.receive_first_frame
+                0x000038ec       0xec ./Sources/CANTP.o
+                0x000038ec                receive_first_frame
+ .text.receive_flow_control
+                0x000039d8       0x12 ./Sources/CANTP.o
+                0x000039d8                receive_flow_control
+ .text.receive_consecutive_frame
+                0x000039ea       0x4a ./Sources/CANTP.o
+                0x000039ea                receive_consecutive_frame
+ .text.can_message
+                0x00003a34       0xea ./Sources/CANTP.o
+                0x00003a34                can_message
+ *fill*         0x00003b1e        0x2 
+ .text.can0_ErrorCallback
+                0x00003b20       0x50 ./Sources/CAN_standard.o
+                0x00003b20                can0_ErrorCallback
+ .text.SendCANData
+                0x00003b70       0x3a ./Sources/CAN_standard.o
+                0x00003b70                SendCANData
+ *fill*         0x00003baa        0x2 
+ .text.CANInit  0x00003bac       0x5c ./Sources/CAN_standard.o
+                0x00003bac                CANInit
+ .text.implementCode
+                0x00003c08       0x74 ./Sources/CAN_standard.o
+                0x00003c08                implementCode
+ .text.can0_Callback
+                0x00003c7c       0x48 ./Sources/CAN_standard.o
+                0x00003c7c                can0_Callback
+ .text.clearDiagnosticInfoHandler
+                0x00003cc4        0x4 ./Sources/UDS_ECU.o
+                0x00003cc4                clearDiagnosticInfoHandler
+ .text.readDtcInfoHandler
+                0x00003cc8        0x4 ./Sources/UDS_ECU.o
+                0x00003cc8                readDtcInfoHandler
+ .text.diagnosticSessionControlHandler
+                0x00003ccc       0xa4 ./Sources/UDS_ECU.o
+                0x00003ccc                diagnosticSessionControlHandler
+ .text.readDataByIdentifierHandler
+                0x00003d70       0xb4 ./Sources/UDS_ECU.o
+                0x00003d70                readDataByIdentifierHandler
+ .text.ecuResetHandler
+                0x00003e24       0x70 ./Sources/UDS_ECU.o
+                0x00003e24                ecuResetHandler
+ .text.requestDownloadHandler
+                0x00003e94       0x90 ./Sources/UDS_ECU.o
+                0x00003e94                requestDownloadHandler
+ .text.processUDSService
+                0x00003f24       0xf8 ./Sources/UDS_ECU.o
+                0x00003f24                processUDSService
+ .text.generateSeed
+                0x0000401c       0x34 ./Sources/UDS_ECU.o
+                0x0000401c                generateSeed
+ .text.securityAccessHandler
+                0x00004050       0xde ./Sources/UDS_ECU.o
+                0x00004050                securityAccessHandler
+ *fill*         0x0000412e        0x2 
+ .text.writeDataToDFlash
+                0x00004130       0x34 ./Sources/UDS_ECU.o
+                0x00004130                writeDataToDFlash
+ .text.writeDataByIdentifierHandler
+                0x00004164      0x100 ./Sources/UDS_ECU.o
+                0x00004164                writeDataByIdentifierHandler
+ .text.lptmrISR
+                0x00004264        0xa ./Sources/main.o
+                0x00004264                lptmrISR
+ *fill*         0x0000426e        0x2 
+ .text.GPIOInit
+                0x00004270       0x28 ./Sources/main.o
+                0x00004270                GPIOInit
+ .text.main     0x00004298      0x100 ./Sources/main.o
+                0x00004298                main
+ .text.memcpy   0x00004398       0x16 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x00004398                memcpy
+ *fill*         0x000043ae        0x2 
+ .text.srand    0x000043b0       0x50 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+                0x000043b0                srand
+ .text.rand     0x00004400       0x74 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+                0x00004400                rand
+ .text.time     0x00004474       0x28 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+                0x00004474                time
+ .text._gettimeofday_r
+                0x0000449c       0x24 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+                0x0000449c                _gettimeofday_r
+ .text.malloc   0x000044c0       0x10 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x000044c0                malloc
+ .text._malloc_r
+                0x000044d0       0xbc E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x000044d0                _malloc_r
+ .text._sbrk_r  0x0000458c       0x20 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x0000458c                _sbrk_r
+ .text.__malloc_lock
+                0x000045ac        0x2 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x000045ac                __malloc_lock
+ .text.__malloc_unlock
+                0x000045ae        0x2 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x000045ae                __malloc_unlock
+ .text._gettimeofday
+                0x000045b0       0x10 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+                0x000045b0                _gettimeofday
+ .text._sbrk    0x000045c0       0x1c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x000045c0                _sbrk
+ *(.rodata)
+ *(.rodata*)
+ .rodata.Flash1_InitConfig0
+                0x000045dc       0x14 ./Generated_Code/Flash1.o
+                0x000045dc                Flash1_InitConfig0
+ .rodata.canCom1_InitConfig0
+                0x000045f0       0x38 ./Generated_Code/canCom1.o
+                0x000045f0                canCom1_InitConfig0
+ .rodata.lpTmr1_config0
+                0x00004628       0x10 ./Generated_Code/lpTmr1.o
+                0x00004628                lpTmr1_config0
+ .rodata.clockNameMappings
+                0x00004638       0x9e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00004638                clockNameMappings
+ *fill*         0x000046d6        0x2 
+ .rodata.maxSysClksInHSRUN.7598
+                0x000046d8       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.maxSysClksInRUN.7597
+                0x0000472c       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.maxSysClksInVLPR.7596
+                0x00004780       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.peripheralFeaturesList
+                0x000047d4       0x4f ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x000047d4                peripheralFeaturesList
+ *fill*         0x00004823        0x1 
+ .rodata.g_flexcanBase
+                0x00004824        0xc ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .rodata.g_flexcanBusOffIrqId
+                0x00004830        0x3 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ *fill*         0x00004833        0x1 
+ .rodata.g_flexcanErrorIrqId
+                0x00004834        0x3 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ *fill*         0x00004837        0x1 
+ .rodata.g_flexcanOredMessageBufferIrqId
+                0x00004838        0x6 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ *fill*         0x0000483e        0x2 
+ .rodata.g_flexcanWakeUpIrqId
+                0x00004840        0x3 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ *fill*         0x00004843        0x1 
+ .rodata.payload_code.7344
+                0x00004844       0x41 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ *(.init)
+ *fill*         0x00004885        0x3 
+ .init          0x00004888        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00004888                _init
+ *(.fini)
+ .fini          0x0000488c        0x4 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000488c                _fini
+ .fini.__stub   0x00004890        0x8 linker stubs
+ *(.eh_frame)
+                0x00004898                . = ALIGN (0x4)
+
+.glue_7         0x00004898        0x0
+ .glue_7        0x00004898        0x0 linker stubs
+
+.glue_7t        0x00004898        0x0
+ .glue_7t       0x00004898        0x0 linker stubs
+
+.vfp11_veneer   0x00004898        0x0
+ .vfp11_veneer  0x00004898        0x0 linker stubs
+
+.v4_bx          0x00004898        0x0
+ .v4_bx         0x00004898        0x0 linker stubs
+
+.iplt           0x00004898        0x0
+ .iplt          0x00004898        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM            0x00004898        0x8
+                0x00004898                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x00004898        0x8 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                0x000048a0                __exidx_end = .
+                0x000048a0                __etext = .
+                0x000048a0                __DATA_ROM = .
+
+.interrupts_ram
+                0x1fff8000      0x400
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __VECTOR_RAM__ = .
+                0x1fff8000                __RAM_START = .
+                0x1fff8000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x1fff8400                . = (. + M_VECTOR_RAM_SIZE)
+ *fill*         0x1fff8000      0x400 
+                0x1fff8400                . = ALIGN (0x4)
+                0x1fff8400                __interrupts_ram_end__ = .
+                0x1fff8000                __VECTOR_RAM = DEFINED (__flash_vector_table__)?ORIGIN (m_interrupts):__VECTOR_RAM__
+                0x00000400                __RAM_VECTOR_TABLE_SIZE = DEFINED (__flash_vector_table__)?0x0:(__interrupts_ram_end__ - __interrupts_ram_start__)
+
+.data           0x1fff8400      0x3b4 load address 0x000048a0
+                0x1fff8400                . = ALIGN (0x4)
+                0x1fff8400                __DATA_RAM = .
+                0x1fff8400                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.clockMan1_InitConfig0
+                0x1fff8400       0x78 ./Generated_Code/clockMan1.o
+                0x1fff8400                clockMan1_InitConfig0
+ .data.g_clockManConfigsArr
+                0x1fff8478        0x4 ./Generated_Code/clockMan1.o
+                0x1fff8478                g_clockManConfigsArr
+ .data.peripheralClockConfig0
+                0x1fff847c       0x32 ./Generated_Code/clockMan1.o
+                0x1fff847c                peripheralClockConfig0
+ *fill*         0x1fff84ae        0x2 
+ .data.g_pin_mux_InitConfigArr
+                0x1fff84b0      0x120 ./Generated_Code/pin_mux.o
+                0x1fff84b0                g_pin_mux_InitConfigArr
+ .data.peripheralClockConfig.7360
+                0x1fff85d0       0xa0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .data.dataInfo
+                0x1fff8670        0xc ./Sources/CAN_standard.o
+                0x1fff8670                dataInfo
+ .data.serviceHandlers
+                0x1fff867c       0xd4 ./Sources/UDS_ECU.o
+                0x1fff867c                serviceHandlers
+ .data._impure_ptr
+                0x1fff8750        0x4 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x1fff8750                _impure_ptr
+ .data.impure_data
+                0x1fff8754       0x60 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x1fff87b4                . = ALIGN (0x4)
+                0x1fff87b4                __data_end__ = .
+                0x00004c54                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00004c54                __CODE_ROM = __DATA_END
+
+.igot.plt       0x1fff87b4        0x0 load address 0x00004c54
+ .igot.plt      0x1fff87b4        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.code           0x1fff87b4       0x38 load address 0x00004c54
+                0x1fff87b4                . = ALIGN (0x4)
+                0x1fff87b4                __CODE_RAM = .
+                0x1fff87b4                __code_start__ = .
+                0x1fff87b4                __code_ram_start__ = .
+ *(.code_ram)
+ .code_ram      0x1fff87b4       0x38 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x1fff87ec                . = ALIGN (0x4)
+                0x1fff87ec                __code_end__ = .
+                0x1fff87ec                __code_ram_end__ = .
+                0x00004c8c                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+                0x00004c8c                __CUSTOM_ROM = __CODE_END
+
+.rel.dyn        0x1fff87ec        0x0 load address 0x00004c8c
+ .rel.iplt      0x1fff87ec        0x0 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.customSectionBlock
+                0x20000000        0x0 load address 0x00004c8c
+                0x20000000                __customSection_start__ = .
+ *(.customSection)
+                0x20000000                __customSection_end__ = .
+                0x00004c8c                __CUSTOM_END = (__CUSTOM_ROM + (__customSection_end__ - __customSection_start__))
+                0x00004c8c                __rom_end = __CUSTOM_END
+
+.bss            0x20000000     0x2214
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __BSS_START = .
+                0x20000000                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.canCom1_State
+                0x20000000      0x114 ./Generated_Code/canCom1.o
+                0x20000000                canCom1_State
+ .bss.g_clockManCallbacksArr
+                0x20000114        0x4 ./Generated_Code/clockMan1.o
+                0x20000114                g_clockManCallbacksArr
+ .bss.g_RtcClkInFreq
+                0x20000118        0x4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x20000118                g_RtcClkInFreq
+ .bss.g_TClkFreq
+                0x2000011c        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x2000011c                g_TClkFreq
+ .bss.g_clockState
+                0x20000128       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .bss.g_xtal0ClkFreq
+                0x20000138        0x4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x20000138                g_xtal0ClkFreq
+ .bss.s_virtEdmaState
+                0x2000013c        0x4 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .bss.g_flexcanStatePtr
+                0x20000140        0xc ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .bss.g_interruptDisableCount
+                0x2000014c        0x4 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .bss.s_osif_tick_cnt
+                0x20000150        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .bss.link      0x20000154       0x24 ./Sources/CANTP.o
+                0x20000154                link
+ .bss.callback_test
+                0x20000178        0x1 ./Sources/CAN_standard.o
+                0x20000178                callback_test
+ *fill*         0x20000179        0x3 
+ .bss.convert_Buff
+                0x2000017c        0x8 ./Sources/CAN_standard.o
+                0x2000017c                convert_Buff
+ .bss.recvBuff  0x20000184       0x4c ./Sources/CAN_standard.o
+                0x20000184                recvBuff
+ .bss.comm      0x200001d0       0x10 ./Sources/UDS_ECU.o
+                0x200001d0                comm
+ .bss.flashSsdConfig
+                0x200001e0       0x1c ./Sources/UDS_ECU.o
+                0x200001e0                flashSsdConfig
+ .bss.request   0x200001fc        0x7 ./Sources/UDS_ECU.o
+                0x200001fc                request
+ *fill*         0x20000203        0x1 
+ .bss.RxBuffer  0x20000204      0xfff ./Sources/main.o
+                0x20000204                RxBuffer
+ *fill*         0x20001203        0x1 
+ .bss.TxBuffer  0x20001204      0xfff ./Sources/main.o
+                0x20001204                TxBuffer
+ *fill*         0x20002203        0x1 
+ .bss.__malloc_free_list
+                0x20002204        0x4 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20002204                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x20002208        0x4 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20002208                __malloc_sbrk_start
+ .bss.heap_end.5365
+                0x2000220c        0x4 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x20002210        0x4 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x20002210                errno
+                0x20002214                . = ALIGN (0x4)
+                0x20002214                __bss_end__ = .
+                0x20002214                __BSS_END = .
+
+.heap           0x20002214      0x404
+                0x20002218                . = ALIGN (0x8)
+ *fill*         0x20002214        0x4 
+                0x20002218                __end__ = .
+                0x20002218                __heap_start__ = .
+                0x20002218                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                [!provide]                PROVIDE (__end, .)
+                0x20002218                __HeapBase = .
+                0x20002618                . = (. + HEAP_SIZE)
+ *fill*         0x20002218      0x400 
+                0x20002618                __HeapLimit = .
+                0x20002618                __heap_limit = .
+                0x20002618                __heap_end__ = .
+                0x20007000                __StackTop = (ORIGIN (m_data_2) + LENGTH (m_data_2))
+                0x20006c00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20007000                PROVIDE (__stack, __StackTop)
+                0x20007000                __RAM_END = __StackTop
+
+.stack          0x20006c00      0x400
+                0x20006c00                . = ALIGN (0x8)
+                0x20006c00                __stack_start__ = .
+                0x20007000                . = (. + STACK_SIZE)
+ *fill*         0x20006c00      0x400 
+                0x20007000                __stack_end__ = .
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x39 ./Generated_Code/Flash1.o
+ .ARM.attributes
+                0x0000005b       0x39 ./Generated_Code/canCom1.o
+ .ARM.attributes
+                0x00000094       0x39 ./Generated_Code/clockMan1.o
+ .ARM.attributes
+                0x000000cd       0x39 ./Generated_Code/lpTmr1.o
+ .ARM.attributes
+                0x00000106       0x39 ./Generated_Code/pin_mux.o
+ .ARM.attributes
+                0x0000013f       0x1f ./Project_Settings/Startup_Code/startup_S32K144.o
+ .ARM.attributes
+                0x0000015e       0x39 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .ARM.attributes
+                0x00000197       0x39 ./SDK/platform/devices/startup.o
+ .ARM.attributes
+                0x000001d0       0x39 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .ARM.attributes
+                0x00000209       0x39 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .ARM.attributes
+                0x00000242       0x39 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .ARM.attributes
+                0x0000027b       0x39 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .ARM.attributes
+                0x000002b4       0x39 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .ARM.attributes
+                0x000002ed       0x39 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .ARM.attributes
+                0x00000326       0x39 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .ARM.attributes
+                0x0000035f       0x39 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .ARM.attributes
+                0x00000398       0x39 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .ARM.attributes
+                0x000003d1       0x39 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .ARM.attributes
+                0x0000040a       0x39 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .ARM.attributes
+                0x00000443       0x39 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .ARM.attributes
+                0x0000047c       0x39 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .ARM.attributes
+                0x000004b5       0x39 ./SDK/rtos/osif/osif_baremetal.o
+ .ARM.attributes
+                0x000004ee       0x39 ./Sources/CANTP.o
+ .ARM.attributes
+                0x00000527       0x39 ./Sources/CAN_standard.o
+ .ARM.attributes
+                0x00000560       0x39 ./Sources/UDS_ECU.o
+ .ARM.attributes
+                0x00000599       0x39 ./Sources/main.o
+ .ARM.attributes
+                0x000005d2       0x22 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000005f4       0x34 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000628       0x22 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000064a       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000067e       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000006b2       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+ .ARM.attributes
+                0x000006e6       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+ .ARM.attributes
+                0x0000071a       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+ .ARM.attributes
+                0x0000074e       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000782       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000007b6       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000007ea       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000081e       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000852       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+ .ARM.attributes
+                0x00000886       0x34 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x00000001                ASSERT ((__rom_end <= (ORIGIN (m_text) + LENGTH (m_text))), Region m_text overflowed!)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(ECU_1.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x2d50a
+ .debug_info    0x00000000     0x1f50 ./Generated_Code/Flash1.o
+ .debug_info    0x00001f50     0x1f5d ./Generated_Code/canCom1.o
+ .debug_info    0x00003ead     0x2085 ./Generated_Code/clockMan1.o
+ .debug_info    0x00005f32     0x1f50 ./Generated_Code/lpTmr1.o
+ .debug_info    0x00007e82      0x406 ./Generated_Code/pin_mux.o
+ .debug_info    0x00008288      0x521 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_info    0x000087a9      0x2ad ./SDK/platform/devices/startup.o
+ .debug_info    0x00008a56     0x5ae6 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_info    0x0000e53c     0x3771 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_info    0x00011cad      0x960 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_info    0x0001260d      0x6db ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_info    0x00012ce8     0x188f ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_info    0x00014577     0x5039 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_info    0x000195b0     0x1d7b ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_info    0x0001b32b      0x275 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .debug_info    0x0001b5a0      0x997 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_info    0x0001bf37     0x2203 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_info    0x0001e13a      0x11c ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_info    0x0001e256     0x13d8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_info    0x0001f62e      0x8a8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_info    0x0001fed6      0xa9e ./SDK/rtos/osif/osif_baremetal.o
+ .debug_info    0x00020974     0x32b2 ./Sources/CANTP.o
+ .debug_info    0x00023c26     0x2f04 ./Sources/CAN_standard.o
+ .debug_info    0x00026b2a     0x3829 ./Sources/UDS_ECU.o
+ .debug_info    0x0002a353     0x31b7 ./Sources/main.o
+
+.debug_abbrev   0x00000000     0x38e9
+ .debug_abbrev  0x00000000      0x16a ./Generated_Code/Flash1.o
+ .debug_abbrev  0x0000016a      0x16a ./Generated_Code/canCom1.o
+ .debug_abbrev  0x000002d4      0x177 ./Generated_Code/clockMan1.o
+ .debug_abbrev  0x0000044b      0x16a ./Generated_Code/lpTmr1.o
+ .debug_abbrev  0x000005b5       0xca ./Generated_Code/pin_mux.o
+ .debug_abbrev  0x0000067f      0x140 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_abbrev  0x000007bf       0xe0 ./SDK/platform/devices/startup.o
+ .debug_abbrev  0x0000089f      0x3e3 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_abbrev  0x00000c82      0x422 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_abbrev  0x000010a4      0x205 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_abbrev  0x000012a9      0x1b8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_abbrev  0x00001461      0x2bf ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_abbrev  0x00001720      0x431 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_abbrev  0x00001b51      0x38a ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_abbrev  0x00001edb       0x6c ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .debug_abbrev  0x00001f47      0x1f4 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_abbrev  0x0000213b      0x358 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_abbrev  0x00002493       0xaf ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_abbrev  0x00002542      0x2db ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_abbrev  0x0000281d      0x1f5 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_abbrev  0x00002a12      0x2c6 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_abbrev  0x00002cd8      0x319 ./Sources/CANTP.o
+ .debug_abbrev  0x00002ff1      0x28a ./Sources/CAN_standard.o
+ .debug_abbrev  0x0000327b      0x408 ./Sources/UDS_ECU.o
+ .debug_abbrev  0x00003683      0x266 ./Sources/main.o
+
+.debug_aranges  0x00000000      0xc70
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/Flash1.o
+ .debug_aranges
+                0x00000018       0x18 ./Generated_Code/canCom1.o
+ .debug_aranges
+                0x00000030       0x18 ./Generated_Code/clockMan1.o
+ .debug_aranges
+                0x00000048       0x18 ./Generated_Code/lpTmr1.o
+ .debug_aranges
+                0x00000060       0x18 ./Generated_Code/pin_mux.o
+ .debug_aranges
+                0x00000078       0x30 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_aranges
+                0x000000a8       0x20 ./SDK/platform/devices/startup.o
+ .debug_aranges
+                0x000000c8      0x120 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_aranges
+                0x000001e8      0x138 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_aranges
+                0x00000320       0x88 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_aranges
+                0x000003a8       0xa0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_aranges
+                0x00000448      0x130 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_aranges
+                0x00000578      0x170 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_aranges
+                0x000006e8       0xe8 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_aranges
+                0x000007d0       0x80 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .debug_aranges
+                0x00000850       0x70 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_aranges
+                0x000008c0       0xa8 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_aranges
+                0x00000968       0x20 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_aranges
+                0x00000988       0xe0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_aranges
+                0x00000a68       0x40 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_aranges
+                0x00000aa8       0x70 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_aranges
+                0x00000b18       0x70 ./Sources/CANTP.o
+ .debug_aranges
+                0x00000b88       0x40 ./Sources/CAN_standard.o
+ .debug_aranges
+                0x00000bc8       0x78 ./Sources/UDS_ECU.o
+ .debug_aranges
+                0x00000c40       0x30 ./Sources/main.o
+
+.debug_line     0x00000000     0x7ef7
+ .debug_line    0x00000000      0x3c2 ./Generated_Code/Flash1.o
+ .debug_line    0x000003c2      0x3c3 ./Generated_Code/canCom1.o
+ .debug_line    0x00000785      0x3c5 ./Generated_Code/clockMan1.o
+ .debug_line    0x00000b4a      0x3c2 ./Generated_Code/lpTmr1.o
+ .debug_line    0x00000f0c      0x1c0 ./Generated_Code/pin_mux.o
+ .debug_line    0x000010cc      0x1e0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_line    0x000012ac      0x159 ./SDK/platform/devices/startup.o
+ .debug_line    0x00001405     0x10db ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_line    0x000024e0      0x87e ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_line    0x00002d5e      0x355 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_line    0x000030b3      0x2c4 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_line    0x00003377      0x79c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_line    0x00003b13      0xd00 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_line    0x00004813      0x785 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_line    0x00004f98      0x140 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .debug_line    0x000050d8      0x341 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_line    0x00005419      0x633 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_line    0x00005a4c      0x18c ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_line    0x00005bd8      0x4a6 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_line    0x0000607e      0x2d1 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_line    0x0000634f      0x3ca ./SDK/rtos/osif/osif_baremetal.o
+ .debug_line    0x00006719      0x650 ./Sources/CANTP.o
+ .debug_line    0x00006d69      0x542 ./Sources/CAN_standard.o
+ .debug_line    0x000072ab      0x723 ./Sources/UDS_ECU.o
+ .debug_line    0x000079ce      0x529 ./Sources/main.o
+
+.debug_str      0x00000000     0xaa71
+ .debug_str     0x00000000     0x3556 ./Generated_Code/Flash1.o
+                               0x3628 (size before relaxing)
+ .debug_str     0x00003556       0x1c ./Generated_Code/canCom1.o
+                               0x3629 (size before relaxing)
+ .debug_str     0x00003572      0x4b6 ./Generated_Code/clockMan1.o
+                               0x3ac3 (size before relaxing)
+ .debug_str     0x00003a28       0x1b ./Generated_Code/lpTmr1.o
+                               0x3628 (size before relaxing)
+ .debug_str     0x00003a43       0x1c ./Generated_Code/pin_mux.o
+                                0x5f2 (size before relaxing)
+ .debug_str     0x00003a5f      0x1e2 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+                                0x433 (size before relaxing)
+ .debug_str     0x00003c41      0x20c ./SDK/platform/devices/startup.o
+                                0x422 (size before relaxing)
+ .debug_str     0x00003e4d     0x1556 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                               0x3932 (size before relaxing)
+ .debug_str     0x000053a3     0x1726 ./SDK/platform/drivers/src/edma/edma_driver.o
+                               0x2a20 (size before relaxing)
+ .debug_str     0x00006ac9       0x46 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                                0x7e4 (size before relaxing)
+ .debug_str     0x00006b0f      0x162 ./SDK/platform/drivers/src/edma/edma_irq.o
+                                0x4f9 (size before relaxing)
+ .debug_str     0x00006c71      0x701 ./SDK/platform/drivers/src/flash/flash_driver.o
+                               0x18d9 (size before relaxing)
+ .debug_str     0x00007372     0x1426 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+                               0x3229 (size before relaxing)
+ .debug_str     0x00008798      0x367 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+                               0x1828 (size before relaxing)
+ .debug_str     0x00008aff      0x17c ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+                                0x3ae (size before relaxing)
+ .debug_str     0x00008c7b      0x180 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                                0xb78 (size before relaxing)
+ .debug_str     0x00008dfb      0x61c ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+                               0x19c1 (size before relaxing)
+ .debug_str     0x00009417       0x34 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+                                0x259 (size before relaxing)
+ .debug_str     0x0000944b      0x5da ./SDK/platform/drivers/src/pins/pins_driver.o
+                               0x143e (size before relaxing)
+ .debug_str     0x00009a25      0x19d ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                                0x926 (size before relaxing)
+ .debug_str     0x00009bc2      0x192 ./SDK/rtos/osif/osif_baremetal.o
+                               0x10cf (size before relaxing)
+ .debug_str     0x00009d54      0x8a9 ./Sources/CANTP.o
+                               0x403b (size before relaxing)
+ .debug_str     0x0000a5fd       0xad ./Sources/CAN_standard.o
+                               0x3f5c (size before relaxing)
+ .debug_str     0x0000a6aa      0x2b2 ./Sources/UDS_ECU.o
+                               0x410e (size before relaxing)
+ .debug_str     0x0000a95c      0x115 ./Sources/main.o
+                               0x45f3 (size before relaxing)
+
+.comment        0x00000000       0xa0
+ .comment       0x00000000       0xa0 ./Generated_Code/Flash1.o
+                                 0xa1 (size before relaxing)
+ .comment       0x000000a0       0xa1 ./Generated_Code/canCom1.o
+ .comment       0x000000a0       0xa1 ./Generated_Code/clockMan1.o
+ .comment       0x000000a0       0xa1 ./Generated_Code/lpTmr1.o
+ .comment       0x000000a0       0xa1 ./Generated_Code/pin_mux.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/devices/startup.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .comment       0x000000a0       0xa1 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .comment       0x000000a0       0xa1 ./SDK/rtos/osif/osif_baremetal.o
+ .comment       0x000000a0       0xa1 ./Sources/CANTP.o
+ .comment       0x000000a0       0xa1 ./Sources/CAN_standard.o
+ .comment       0x000000a0       0xa1 ./Sources/UDS_ECU.o
+ .comment       0x000000a0       0xa1 ./Sources/main.o
+
+.debug_loc      0x00000000    0x1276b
+ .debug_loc     0x00000000       0xeb ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_loc     0x000000eb       0xec ./SDK/platform/devices/startup.o
+ .debug_loc     0x000001d7     0x4e0b ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_loc     0x00004fe2     0x28bf ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_loc     0x000078a1      0x6fa ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_loc     0x00007f9b       0x50 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_loc     0x00007feb     0x1e38 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_loc     0x00009e23     0x3427 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_loc     0x0000d24a     0x1b61 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_loc     0x0000edab      0x252 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_loc     0x0000effd     0x12d7 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_loc     0x000102d4       0x1f ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_loc     0x000102f3      0x77f ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_loc     0x00010a72      0x56a ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_loc     0x00010fdc      0x275 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_loc     0x00011251      0x5f4 ./Sources/CANTP.o
+ .debug_loc     0x00011845      0x2ea ./Sources/CAN_standard.o
+ .debug_loc     0x00011b2f      0xbef ./Sources/UDS_ECU.o
+ .debug_loc     0x0001271e       0x4d ./Sources/main.o
+
+.debug_ranges   0x00000000     0x10b0
+ .debug_ranges  0x00000000       0x20 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_ranges  0x00000020       0x10 ./SDK/platform/devices/startup.o
+ .debug_ranges  0x00000030      0x388 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_ranges  0x000003b8      0x158 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_ranges  0x00000510       0x90 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_ranges  0x000005a0       0x90 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_ranges  0x00000630      0x190 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_ranges  0x000007c0      0x278 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_ranges  0x00000a38      0x110 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_ranges  0x00000b48       0x70 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .debug_ranges  0x00000bb8       0x98 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_ranges  0x00000c50      0x1a8 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_ranges  0x00000df8       0x10 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_ranges  0x00000e08       0xd0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_ranges  0x00000ed8       0x30 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_ranges  0x00000f08       0x90 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_ranges  0x00000f98       0x60 ./Sources/CANTP.o
+ .debug_ranges  0x00000ff8       0x30 ./Sources/CAN_standard.o
+ .debug_ranges  0x00001028       0x68 ./Sources/UDS_ECU.o
+ .debug_ranges  0x00001090       0x20 ./Sources/main.o
+
+.debug_frame    0x00000000     0x2308
+ .debug_frame   0x00000000       0x40 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_frame   0x00000040       0x2c ./SDK/platform/devices/startup.o
+ .debug_frame   0x0000006c      0x37c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_frame   0x000003e8      0x388 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_frame   0x00000770      0x144 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_frame   0x000008b4      0x1ac ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_frame   0x00000a60      0x39c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_frame   0x00000dfc      0x4e0 ./SDK/platform/drivers/src/flexcan/flexcan_driver.o
+ .debug_frame   0x000012dc      0x274 ./SDK/platform/drivers/src/flexcan/flexcan_hw_access.o
+ .debug_frame   0x00001550      0x148 ./SDK/platform/drivers/src/flexcan/flexcan_irq.o
+ .debug_frame   0x00001698       0xd8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_frame   0x00001770      0x198 ./SDK/platform/drivers/src/lptmr/lptmr_driver.o
+ .debug_frame   0x00001908       0x20 ./SDK/platform/drivers/src/lptmr/lptmr_hw_access.o
+ .debug_frame   0x00001928      0x1e4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_frame   0x00001b0c       0x98 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_frame   0x00001ba4       0xf8 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_frame   0x00001c9c      0x188 ./Sources/CANTP.o
+ .debug_frame   0x00001e24       0x9c ./Sources/CAN_standard.o
+ .debug_frame   0x00001ec0      0x174 ./Sources/UDS_ECU.o
+ .debug_frame   0x00002034       0x5c ./Sources/main.o
+ .debug_frame   0x00002090       0x2c e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x000020bc       0x34 e:/nxp/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000020f0       0x28 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00002118       0x44 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+ .debug_frame   0x0000215c       0x2c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-time.o)
+ .debug_frame   0x00002188       0x2c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettimeofdayr.o)
+ .debug_frame   0x000021b4       0x30 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x000021e4       0x2c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00002210       0x5c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000226c       0x2c E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002298       0x30 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x000022c8       0x20 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+ .debug_frame   0x000022e8       0x20 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+
+.stab           0x00000000       0x24
+ .stab          0x00000000       0x24 E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
+
+.stabstr        0x00000000       0x4e
+ .stabstr       0x00000000       0x4e E:/NXP/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(gettod.o)
