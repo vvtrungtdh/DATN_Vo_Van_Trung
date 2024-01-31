@@ -4,7 +4,7 @@ gồm 4 thành viên: Võ Văn Trung, Lê Quang Khải, Trịnh Công Duy Nguyê
 cho DATN tại trường đại học Bách khoa Đà Nẵng vào năm 2023-2024.
 Thời gian thực hiện dự án từ tháng 8 năm 2023 đến tháng 12 năm 2023. 
 Mô tả:
-Dự án yêu cầu 4 thành phần chính bao gồm:
+Dự án yêu cầu 5 thành phần chính bao gồm:
  - xây dựng một phần mềm trên máy tính đóng vai trò công cụ chẩn đoán tương tác với người dùng,
    nhằm hỗ trợ họ trong việc chẩn đoán lỗi trên ô tô và cập nhật chương trình một cách nhanh chóng. Công cụ được xây dựng để kết nối với thiết bị chẩn đoán (S32K144 EVB của NXP)
    truyền nhận dữ liệu thông qua giao thức UART. Các chức năng của công cụ chẩn đoán này được viết dựa trên mô tả đối với Clients trong tiêu chuẩn ISO - 14229-1 (UDS) về cung cấp
