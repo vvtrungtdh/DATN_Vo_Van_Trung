@@ -1,6 +1,6 @@
 Dự án Thiết kế hệ thống chẩn đoán lỗi và cập nhật chương trình trên ECUs ô tô.
 Dự án này được thực hiện tại công ty TNHH FPT software Miền Trung. Nhóm sinh viên thực hiện 
-gồm 4 thành viên: Võ Văn Trung và Hà Minh Hiếu thực hiện
+gồm 2 thành viên: Võ Văn Trung và Hà Minh Hiếu thực hiện
 cho DATN tại trường đại học Bách khoa Đà Nẵng vào năm 2023-2024.
 Thời gian thực hiện dự án từ tháng 8 năm 2023 đến tháng 12 năm 2023. 
 Mô tả:
